@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## 1.6
+## 1.5
 April 16, 2016
 
 - Port to MacOS
